@@ -22,15 +22,15 @@ If you have any question, bug reports, or feature requests, you can post them he
 
 # Screenshots
 *User-friendly design*
-![User-friendly design](https://i.imgur.com/tU79Ov2.jpeg)
+![User-friendly design](https://github.com/teijiIshida/Vulcan/blob/main/1.jpg?raw=true)
 
 *Tooltips on hover*
-![Tooltips on hover](https://i.imgur.com/5w7RdTQ.jpeg)
+![Tooltips on hover](https://github.com/teijiIshida/Vulcan/blob/main/2.jpg?raw=true)
 
 *Smart settings with error-prevention logic*
-![Smart settings with error-prevention logic](https://i.imgur.com/5oTWpkG.jpeg)
+![Smart settings with error-prevention logic](https://github.com/teijiIshida/Vulcan/blob/main/3.jpg?raw=true)
 
 *Toggle between light or dark mode*
-![Toggle between light or dark mode](https://i.imgur.com/Lzggaem.jpeg)
+![Toggle between light or dark mode](https://github.com/teijiIshida/Vulcan/blob/main/4.jpg?raw=true)
 
 
