@@ -1,10 +1,11 @@
+![Logo](https://github.com/teijiIshida/Vulcan/blob/main/logo.jpg?raw=true)
 # Vulcan
 
 Vulcan is a simple app to configure JavPlayer batch files and more. 
 
 This app is just a GUI. It does not have any super-resolution or denoising functionality. To use super-resolution and denoising, you’ll need JavPlayer, TVAI, and TG-Plus. 
 
-Get Vulcan: https://ko-fi.com/teiji_ishida (pending upload)
+Get Vulcan: https://ko-fi.com/teiji_ishida (pending release)
 
 If you have any question, bug reports, or feature requests, you can post them here or on my Ko-fi page.
 
