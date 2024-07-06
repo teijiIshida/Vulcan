@@ -1,4 +1,4 @@
-![Logo](https://github.com/teijiIshida/Vulcan/blob/main/logo.jpg?raw=true)
+[![Logo](https://github.com/teijiIshida/Vulcan/blob/main/logo.jpg?raw=true)](https://github.com/teijiIshida/Vulcan/blob/main/logo.png?raw=true)
 # Vulcan
 
 Vulcan is a simple app to configure JavPlayer batch files and more. 
