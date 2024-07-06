@@ -32,9 +32,7 @@ If you have any question, bug reports, or feature requests, you can post them he
 
 
 # Screenshots
-<p align="center">
 *User-friendly design*
-</p>
 ![User-friendly design](https://github.com/teijiIshida/Vulcan/blob/main/1.jpg?raw=true)
 
 <p align="center">
