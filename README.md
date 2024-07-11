@@ -44,4 +44,4 @@ If you have any question, bug reports, or feature requests, you can post them he
 *Toggle between light or dark mode*
 ![Toggle between light or dark mode](https://github.com/teijiIshida/Vulcan/blob/main/4.jpg?raw=true)
 
-
+Credits: All images and icons used in this app are from Flaticon.com.
