@@ -10,11 +10,11 @@ This app is just a GUI. It does not have any super-resolution or denoising funct
 
 <div align="center">
   <br>
-  <a href="https://ko-fi.com/teiji_ishida">
+  <a href="https://ko-fi.com/s/432f558da2">
     <img src="https://github.com/teijiIshida/Vulcan/blob/main/get_button.png?raw=true" alt="Get Vulcan" />
   </a>
   <br>
-  Get Vulcan: <a href="https://ko-fi.com/teiji_ishida">https://ko-fi.com/teiji_ishida</a> (pending release)
+  Get Vulcan: <a href="https://ko-fi.com/s/432f558da2">https://ko-fi.com/s/432f558da2</a>
 </div>
 <br>
 If you have any question, bug reports, or feature requests, you can post them here or on my Ko-fi page.
