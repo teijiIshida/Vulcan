@@ -23,9 +23,9 @@ If you have any question, bug reports, or feature requests, you can post them he
 
 * User-friendly design
 * All settings have error-prevention logic
-* Model menus are smart and dynamic
-* Tooltips appear on hover for many settings 
-* “Reset Defaults” button is available to reset settings quickly
+* Dynamic menus
+* Tooltips on hover for most settings 
+* “Reset Defaults” buttons are available to quickly reset settings
 * Automatically copy all required files into the correct JVP folders (when TG path is set)
 * All settings are remembered and synced with batch/denoising files on app load
 * Can toggle between dark or light appearance mode 
