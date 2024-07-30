@@ -30,7 +30,7 @@ If you have any question, bug reports, or feature requests, you can post them he
 * All settings are remembered and synced with batch/denoising files on app load
 * Can toggle between dark or light appearance mode 
 
-Preview video: [https://youtu.be/u9j0l6rD0YQ](https://youtu.be/nwOItNyVE-o)
+Preview video: https://youtu.be/nwOItNyVE-o
 
 # Screenshots
 *User-friendly design*
