@@ -23,7 +23,7 @@ If you have any question, bug reports, or feature requests, you can post them he
 
 * User-friendly design
 * All settings have error-prevention logic
-* Dynamic menus
+* Dynamic settings
 * Tooltips on hover for most settings 
 * “Reset Defaults” buttons are available to quickly reset settings
 * Automatically copy all required files into the correct JVP folders (when TG path is set)
