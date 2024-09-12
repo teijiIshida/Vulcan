@@ -26,7 +26,7 @@ If you have any question, bug reports, or feature requests, you can post them he
 * Dynamic settings
 * Tooltips on hover for most settings 
 * “Reset Defaults” buttons are available to quickly reset settings
-* Automatically copy all required files into the correct JVP folders (when TG path is set)
+* Toggle-able preset panel to save and load 5 presets.
 * All settings are remembered and synced with batch/denoising files on app load
 * Can toggle between dark or light appearance mode 
 
@@ -34,15 +34,18 @@ Preview video: https://youtu.be/nwOItNyVE-o
 
 # Screenshots
 *User-friendly design*
-![User-friendly design](https://github.com/teijiIshida/Vulcan/blob/main/1.jpg?raw=true)
+![User-friendly design](https://i.imgur.com/kFwz2vq.jpeg)
 
 *Tooltips on hover*
-![Tooltips on hover](https://github.com/teijiIshida/Vulcan/blob/main/2.jpg?raw=true)
+![Tooltips on hover](https://i.imgur.com/wb1T6j5.jpeg)
 
 *Smart settings with error-prevention logic*
-![Smart settings with error-prevention logic](https://github.com/teijiIshida/Vulcan/blob/main/3.jpg?raw=true)
+![Smart settings with error-prevention logic](https://i.imgur.com/zHragkO.jpeg)
+
+*Toggle-able preset panel*
+![Smart settings with error-prevention logic](https://i.imgur.com/wgLNp8j.jpeg)
 
 *Toggle between light or dark mode*
-![Toggle between light or dark mode](https://github.com/teijiIshida/Vulcan/blob/main/4.jpg?raw=true)
+![Toggle between light or dark mode](https://i.imgur.com/n2eFAT6.jpeg)
 
 Credits: All images and icons used in this app are from Flaticon.com.
