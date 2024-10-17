@@ -4,9 +4,9 @@
 
 # Vulcan
 
-Vulcan is a simple app to configure JavPlayer batch files and more. 
+Vulcan is a simple app to configure JavPlayer files. 
 
-This app is just a GUI. It does not have any super-resolution or denoising functionality. To use super-resolution and denoising, you’ll need JavPlayer, TVAI, and TG-Plus. 
+This app is just a GUI. It does not have any super-resolution or denoising functionality. To use super-resolution and denoising, you’ll need JavPlayer, TVAI, TG-Plus, and Vapoursynth. 
 
 <div align="center">
   <br>
@@ -19,33 +19,37 @@ This app is just a GUI. It does not have any super-resolution or denoising funct
 <br>
 If you have any question, bug reports, or feature requests, you can post them here or on my Ko-fi page.
 
-## Highlights
+## Features
 
 * User-friendly design
 * All settings have error-prevention logic
-* Dynamic settings
+* Dynamic settings that will enable or disable depending on the situation
 * Tooltips on hover for most settings 
 * “Reset Defaults” buttons are available to quickly reset settings
 * Toggle-able preset panel to save and load 5 presets.
 * All settings are remembered and synced with batch/denoising files on app load
-* Can toggle between dark or light appearance mode 
+* Toggle between light or dark display mode
+* Select from multiple UI languages 
 
-Preview video: https://youtu.be/nwOItNyVE-o
+Preview video: https://youtu.be/ysPFHSwz9qk
 
 # Screenshots
 *User-friendly design*
-![User-friendly design](https://i.imgur.com/kFwz2vq.jpeg)
+![User-friendly design](https://i.imgur.com/w7d5ZsV.jpeg)
 
 *Tooltips on hover*
-![Tooltips on hover](https://i.imgur.com/wb1T6j5.jpeg)
+![Tooltips on hover](https://i.imgur.com/NEeX6zm.jpeg)
 
-*Smart settings with error-prevention logic*
-![Smart settings with error-prevention logic](https://i.imgur.com/zHragkO.jpeg)
+*Dynamic settings with error-prevention logic*
+![Dynamic settings with error-prevention logic](https://i.imgur.com/NRDIKP8.jpeg)
 
 *Toggle-able preset panel*
-![Smart settings with error-prevention logic](https://i.imgur.com/wgLNp8j.jpeg)
+![Smart settings with error-prevention logic](https://i.imgur.com/SgqjHuV.jpeg)
 
 *Toggle between light or dark mode*
-![Toggle between light or dark mode](https://i.imgur.com/n2eFAT6.jpeg)
+![Toggle between light or dark mode](https://i.imgur.com/SuP9mkR.jpeg)
+
+*Select from multiple UI languages*
+![Select from multiple UI languages](https://i.imgur.com/EQC2YTH.jpeg)
 
 Credits: All images and icons used in this app are from Flaticon.com.
